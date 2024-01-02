@@ -11,7 +11,7 @@ Created various visualizations, including maps, time series plots, forecasting, 
 
 
 ## Results
-I chose Option 2, and i chose the dataset of Airbnb listings in New York City List. Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
+I chose Option 2, and i chose the dataset of Airbnb listings in New York City List. 
 1. How has the number of hosts evolved over time?
 2. What is the total number of hosts,count of neighbourhood, property type and reviews?
 3. What neighbourhood made the most revenue?
@@ -20,10 +20,10 @@ I chose Option 2, and i chose the dataset of Airbnb listings in New York City Li
 6. What is the average price on a map, highlighting neighbourhood and zipcode?
 7. Whatis the average number of beds and price in each room type?
 8. What is the average price per neighbourhood?
-9. 
+9. Clustering of Price and Review.
 
 ## Challenges 
-(discuss challenges you faced in the project)
+Knowing the right visuals to work with ss per the questions asked and insights to be generated.
 
 ## Future Goals
-(what would you do if you had more time?)
+I'll study and brush up my understanding in Level of Details Expressions.
