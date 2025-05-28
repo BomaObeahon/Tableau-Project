@@ -1,3 +1,4 @@
+![Airbnb Chart](Airbnb.jpg)
 # Airbnb listings in New York City Analysis using Tableau
 
 ## Project/Goals
