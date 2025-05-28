@@ -1,4 +1,4 @@
-# Final-Project-Tableau
+# Airbnb listings in New York City Analysis using Tableau
 
 ## Project/Goals
 Explored and analyzed a dataset of Airbnb listings in New York City using Tableau to derive meaningful insights into pricing, room types, neighborhoods, and host-related information.
